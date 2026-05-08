@@ -1,0 +1,6 @@
+[submodule "lib/lib1/opencv"]
+	path = lib/lib1/opencv
+	url = https://github.com/opencv/opencv
+[submodule "lib/lib2/mediapipe"]
+	path = lib/lib2/mediapipe
+	url = https://github.com/google/mediapipe.git
